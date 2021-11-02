@@ -1,4 +1,4 @@
-# Neurowaves 
+# Neurowaves $NXR $AUDIO
 # Neuromaster Waves Isochronic Advanced Sound/Music Development Android/IOS
 
 # BioHacking with Sound Technology - #IsoChronal Research and Development
