@@ -1,7 +1,7 @@
 # Neurowaves 
-Neuromaster Waves Isochronic Advanced Sound/Music Development Android/IOS
+# Neuromaster Waves Isochronic Advanced Sound/Music Development Android/IOS
 
-BioHacking with Sound Technology - #IsoChronal Research and Development
+# BioHacking with Sound Technology - #IsoChronal Research and Development
 
 Trade NEUROMASTER https://www.flooz.trade/wallet/0x14e18681baeb855c2bd0395956e06e66458bae19/?refId=cB0iCi
 
@@ -12,4 +12,7 @@ https://audius.co/BlochchainMusic/neuron-isochronic-technology-health-and-dvelop
 
 https://audius.co/NEUROMASTER/neuromaster-music-therapy-tech-spoken-word-401815
 
-DEMO Music Mixing Isochronic Technology
+
+# DEMO Music Mixing Isochronic Technology
+
+https://audius.co/NEUROMASTER/neuromaster-isowaves-isochronic-demo-remix-overdone-290483
