@@ -11,3 +11,5 @@ Spoken Audio Isochronic Sound Technology #BioHacking
 https://audius.co/BlochchainMusic/neuron-isochronic-technology-health-and-dvelopment-254140
 
 https://audius.co/NEUROMASTER/neuromaster-music-therapy-tech-spoken-word-401815
+
+DEMO Music Mixing Isochronic Technology
