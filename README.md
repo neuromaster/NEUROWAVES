@@ -16,3 +16,5 @@ https://audius.co/NEUROMASTER/neuromaster-music-therapy-tech-spoken-word-401815
 # DEMO Music Mixing Isochronic Technology
 
 https://audius.co/NEUROMASTER/neuromaster-isowaves-isochronic-demo-remix-overdone-290483
+
+https://audius.co/NEUROMASTER/neuromaster-isochronic-demo-mixing-420-isochronic--239705
